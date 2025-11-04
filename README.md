@@ -1,10 +1,12 @@
 # Φ³ / LGPDT — The inComplete System of Productive Self-Reference
 ### Logic to Self-Expanding AGI and the Living Loop of Autopoietic Intelligence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17518095.svg)](https://doi.org/10.5281/zenodo.17518095)
+
 **Author:** Felipe Andrés Sáez Acevedo (Wanaband)  
 **Affiliation:** WANABAND Φ³ Project — Limache, Chile  
 **License:** CC BY-NC-SA 4.0  
-**Base DOI (suite):** [10.5281/zenodo.17460845](https://doi.org/10.5281/zenodo.17460845)  
+**Release DOI:** [10.5281/zenodo.17518095](https://doi.org/10.5281/zenodo.17518095)  
 **Contact:** wanaband.phi3@gmail.com  
 
 ---
@@ -32,15 +34,14 @@ It unifies philosophy (Φ³), formal logic (LGPDT), biological correspondence (�
 ---
 
 ## 📜 How to cite
-Please use the Zenodo DOI for this repository once releases are linked.  
-(Temporary suite DOI: **10.5281/zenodo.17460845**)
+Official Zenodo DOI: **10.5281/zenodo.17518095**
 
 ```bibtex
 @misc{SaezAcevedo_2025_inComplete,
   author  = {Felipe Andrés Sáez Acevedo},
   title   = {The inComplete System of Productive Self-Reference (Φ³/LGPDT)},
   year    = {2025},
-  doi     = {10.5281/zenodo.17460845},
-  url     = {https://doi.org/10.5281/zenodo.17460845},
+  doi     = {10.5281/zenodo.17518095},
+  url     = {https://doi.org/10.5281/zenodo.17518095},
   license = {CC BY-NC-SA 4.0}
 }

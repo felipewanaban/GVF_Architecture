@@ -45,3 +45,39 @@ Official Zenodo DOI: **10.5281/zenodo.17518095**
   url     = {https://doi.org/10.5281/zenodo.17518095},
   license = {CC BY-NC-SA 4.0}
 }
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "name": "The inComplete System of Productive Self-Reference (Φ³/LGPDT)",
+  "alternateName": "Logic of the Paraconsistent Turn within a Dynamic Topos",
+  "author": {
+    "@type": "Person",
+    "name": "Felipe Andrés Sáez Acevedo",
+    "alternateName": "Wanaband",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "WANABAND Φ³ Project, Limache, Chile"
+    }
+  },
+  "datePublished": "2025-11-02",
+  "inLanguage": "en",
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.17518095"
+  },
+  "url": "https://github.com/felipewanaban/Phi3-AGI-Logic",
+  "sameAs": [
+    "https://zenodo.org/records/17518095",
+    "https://doi.org/10.5281/zenodo.17518095"
+  ],
+  "keywords": [
+    "Φ³", "LGPDT", "paraconsistent logic", "dynamic topoi",
+    "self-reference", "Gödel", "Hofstadter", "AGI", "Kolmogorov complexity",
+    "third-order philosophy", "autopoiesis", "generativity"
+  ],
+  "description": "Formal philosophical and logical system that reinterprets Gödelian incompleteness as a generative principle for logic, biology, and artificial intelligence."
+}
+</script>
